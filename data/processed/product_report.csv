@@ -1,0 +1,175 @@
+"category","subcategory","cost_tier","price_tier","quarter","total_sales","total_profit","margin"
+Bikes,Road Bikes,high cost,high price,2010-10-01,25046,9849,0.39
+Bikes,Mountain Bikes,high cost,high price,2010-10-01,16975,7429,0.44
+Bikes,Road Bikes,medium cost,low price,2010-10-01,1398,424,0.30
+Bikes,Road Bikes,high cost,high price,2011-01-01,1148538,451647,0.39
+Bikes,Mountain Bikes,high cost,high price,2011-01-01,240575,105285,0.44
+Bikes,Road Bikes,medium cost,low price,2011-01-01,32154,9752,0.30
+Bikes,Road Bikes,high cost,high price,2011-04-01,1427622,561393,0.39
+Bikes,Mountain Bikes,high cost,high price,2011-04-01,328425,143731,0.44
+Bikes,Road Bikes,medium cost,low price,2011-04-01,45435,13780,0.30
+Bikes,Road Bikes,high cost,high price,2011-07-01,1449090,569835,0.39
+Bikes,Mountain Bikes,high cost,high price,2011-07-01,318350,139322,0.44
+Bikes,Road Bikes,medium cost,low price,2011-07-01,46833,14204,0.30
+Bikes,Road Bikes,high cost,high price,2011-10-01,1513840,595077,0.39
+Bikes,Mountain Bikes,high cost,high price,2011-10-01,436800,191160,0.44
+Bikes,Road Bikes,medium cost,low price,2011-10-01,57570,17636,0.31
+Bikes,Road Bikes,high cost,medium price,2011-10-01,21638,6217,0.29
+Bikes,Mountain Bikes,high cost,medium price,2011-10-01,8218,3196,0.39
+Bikes,Road Bikes,high cost,medium price,2012-01-01,598954,172089,0.29
+Bikes,Road Bikes,high cost,high price,2012-01-01,356678,134904,0.38
+Bikes,Mountain Bikes,high cost,medium price,2012-01-01,335637,130511,0.39
+Bikes,Road Bikes,medium cost,low price,2012-01-01,84564,31968,0.38
+Bikes,Road Bikes,high cost,medium price,2012-04-01,504944,145066,0.29
+Bikes,Mountain Bikes,high cost,medium price,2012-04-01,465428,180978,0.39
+Bikes,Road Bikes,high cost,high price,2012-04-01,229642,86856,0.38
+Bikes,Road Bikes,medium cost,low price,2012-04-01,114318,43216,0.38
+Bikes,Mountain Bikes,high cost,medium price,2012-07-01,646686,251458,0.39
+Bikes,Road Bikes,high cost,medium price,2012-07-01,422392,121346,0.29
+Bikes,Road Bikes,high cost,high price,2012-07-01,271173,102564,0.38
+Bikes,Road Bikes,medium cost,low price,2012-07-01,114318,43216,0.38
+Bikes,Mountain Bikes,high cost,medium price,2012-10-01,813523,319953,0.39
+Bikes,Road Bikes,high cost,medium price,2012-10-01,476013,137725,0.29
+Bikes,Road Bikes,high cost,high price,2012-10-01,227199,85536,0.38
+Bikes,Road Bikes,medium cost,low price,2012-10-01,154710,58396,0.38
+Bikes,Touring Bikes,high cost,high price,2012-10-01,14304,5412,0.38
+Bikes,Touring Bikes,high cost,medium price,2012-10-01,4860,1840,0.38
+Bikes,Touring Bikes,medium cost,low price,2012-10-01,2226,843,0.38
+Bikes,Mountain Bikes,medium cost,low price,2012-10-01,1874,851,0.45
+Accessories,Helmets,low cost,high price,2012-10-01,910,572,0.63
+Accessories,Tires and Tubes,low cost,medium price,2012-10-01,375,236,0.63
+Clothing,Jerseys,medium cost,high price,2012-10-01,216,48,0.22
+Clothing,Jerseys,medium cost,medium price,2012-10-01,200,48,0.24
+Accessories,Bottles and Cages,low cost,medium price,2012-10-01,191,120,0.63
+Accessories,Bike Stands,medium cost,high price,2012-10-01,159,100,0.63
+Accessories,Tires and Tubes,low cost,high price,2012-10-01,140,88,0.63
+Accessories,Fenders,low cost,medium price,2012-10-01,110,70,0.64
+Accessories,Hydration Packs,low cost,high price,2012-10-01,110,68,0.62
+Accessories,Bottles and Cages,low cost,low price,2012-10-01,90,54,0.60
+Clothing,Caps,low cost,low price,2012-10-01,72,16,0.22
+Clothing,Gloves,low cost,medium price,2012-10-01,72,45,0.63
+Clothing,Vests,low cost,high price,2012-10-01,64,40,0.63
+Accessories,Tires and Tubes,low cost,low price,2012-10-01,61,40,0.66
+Clothing,Socks,low cost,low price,2012-10-01,18,12,0.67
+Bikes,Mountain Bikes,high cost,medium price,2013-01-01,952760,432926,0.45
+Bikes,Road Bikes,high cost,high price,2013-01-01,503258,182928,0.36
+Bikes,Road Bikes,high cost,medium price,2013-01-01,367885,133673,0.36
+Bikes,Touring Bikes,high cost,high price,2013-01-01,309920,117260,0.38
+Bikes,Road Bikes,medium cost,low price,2013-01-01,129060,46844,0.36
+Bikes,Mountain Bikes,medium cost,low price,2013-01-01,99311,45087,0.45
+Bikes,Touring Bikes,high cost,medium price,2013-01-01,78975,29900,0.38
+Bikes,Touring Bikes,medium cost,low price,2013-01-01,60102,22761,0.38
+Accessories,Helmets,low cost,high price,2013-01-01,37135,23342,0.63
+Accessories,Tires and Tubes,low cost,medium price,2013-01-01,27317,17262,0.63
+Clothing,Jerseys,medium cost,high price,2013-01-01,15336,3408,0.22
+Clothing,Jerseys,medium cost,medium price,2013-01-01,13750,3300,0.24
+Clothing,Shorts,low cost,high price,2013-01-01,12880,8096,0.63
+Accessories,Tires and Tubes,low cost,high price,2013-01-01,8540,5368,0.63
+Accessories,Bike Racks,medium cost,high price,2013-01-01,8280,5175,0.63
+Accessories,Fenders,low cost,medium price,2013-01-01,7722,4914,0.64
+Accessories,Hydration Packs,low cost,high price,2013-01-01,7315,4522,0.62
+Accessories,Bike Stands,medium cost,high price,2013-01-01,6996,4400,0.63
+Accessories,Tires and Tubes,low cost,low price,2013-01-01,6562,4076,0.62
+Accessories,Bottles and Cages,low cost,medium price,2013-01-01,5855,3684,0.63
+Clothing,Gloves,low cost,medium price,2013-01-01,5712,3570,0.63
+Clothing,Vests,low cost,high price,2013-01-01,4864,3040,0.63
+Accessories,Bottles and Cages,low cost,low price,2013-01-01,3640,2184,0.60
+Clothing,Caps,low cost,low price,2013-01-01,3339,742,0.22
+Accessories,Cleaners,low cost,medium price,2013-01-01,1312,820,0.63
+Clothing,Socks,low cost,low price,2013-01-01,882,588,0.67
+Bikes,Mountain Bikes,high cost,medium price,2013-04-01,1314975,597513,0.45
+Bikes,Touring Bikes,high cost,high price,2013-04-01,736656,278718,0.38
+Bikes,Road Bikes,high cost,medium price,2013-04-01,631652,229510,0.36
+Bikes,Road Bikes,high cost,high price,2013-04-01,464170,168720,0.36
+Bikes,Road Bikes,medium cost,low price,2013-04-01,192240,69776,0.36
+Bikes,Mountain Bikes,medium cost,low price,2013-04-01,165648,75208,0.45
+Bikes,Touring Bikes,high cost,medium price,2013-04-01,112995,42780,0.38
+Bikes,Touring Bikes,medium cost,low price,2013-04-01,101654,38497,0.38
+Accessories,Helmets,low cost,high price,2013-04-01,55020,34584,0.63
+Accessories,Tires and Tubes,low cost,medium price,2013-04-01,38930,24600,0.63
+Clothing,Jerseys,medium cost,high price,2013-04-01,20952,4656,0.22
+Clothing,Jerseys,medium cost,medium price,2013-04-01,20300,4872,0.24
+Clothing,Shorts,low cost,high price,2013-04-01,17710,11132,0.63
+Accessories,Bike Stands,medium cost,high price,2013-04-01,11766,7400,0.63
+Accessories,Tires and Tubes,low cost,high price,2013-04-01,11690,7348,0.63
+Accessories,Fenders,low cost,medium price,2013-04-01,11682,7434,0.64
+Accessories,Tires and Tubes,low cost,low price,2013-04-01,9667,5987,0.62
+Accessories,Hydration Packs,low cost,high price,2013-04-01,9350,5780,0.62
+Accessories,Bottles and Cages,low cost,medium price,2013-04-01,8751,5502,0.63
+Accessories,Bike Racks,medium cost,high price,2013-04-01,8280,5175,0.63
+Clothing,Vests,low cost,high price,2013-04-01,8256,5160,0.63
+Clothing,Gloves,low cost,medium price,2013-04-01,8160,5100,0.63
+Accessories,Bottles and Cages,low cost,low price,2013-04-01,5070,3042,0.60
+Clothing,Caps,low cost,low price,2013-04-01,4590,1020,0.22
+Accessories,Cleaners,low cost,medium price,2013-04-01,1768,1105,0.63
+Clothing,Socks,low cost,low price,2013-04-01,1332,888,0.67
+Bikes,Mountain Bikes,high cost,medium price,2013-07-01,1497430,680416,0.45
+Bikes,Touring Bikes,high cost,high price,2013-07-01,905920,342760,0.38
+Bikes,Road Bikes,high cost,medium price,2013-07-01,718774,261164,0.36
+Bikes,Road Bikes,high cost,high price,2013-07-01,393323,142968,0.36
+Bikes,Road Bikes,medium cost,low price,2013-07-01,199260,72324,0.36
+Bikes,Mountain Bikes,medium cost,low price,2013-07-01,179843,81650,0.45
+Bikes,Touring Bikes,high cost,medium price,2013-07-01,108135,40940,0.38
+Bikes,Touring Bikes,medium cost,low price,2013-07-01,99428,37654,0.38
+Accessories,Helmets,low cost,high price,2013-07-01,56735,35662,0.63
+Accessories,Tires and Tubes,low cost,medium price,2013-07-01,39864,25174,0.63
+Clothing,Jerseys,medium cost,medium price,2013-07-01,23500,5640,0.24
+Clothing,Jerseys,medium cost,high price,2013-07-01,21384,4752,0.22
+Clothing,Shorts,low cost,high price,2013-07-01,16940,10648,0.63
+Accessories,Tires and Tubes,low cost,high price,2013-07-01,12495,7854,0.63
+Accessories,Fenders,low cost,medium price,2013-07-01,11660,7420,0.64
+Accessories,Hydration Packs,low cost,high price,2013-07-01,11055,6834,0.62
+Clothing,Vests,low cost,high price,2013-07-01,10112,6320,0.63
+Accessories,Tires and Tubes,low cost,low price,2013-07-01,9750,6045,0.62
+Accessories,Bottles and Cages,low cost,medium price,2013-07-01,9603,6036,0.63
+Accessories,Bike Racks,medium cost,high price,2013-07-01,8640,5400,0.63
+Accessories,Bike Stands,medium cost,high price,2013-07-01,8427,5300,0.63
+Clothing,Gloves,low cost,medium price,2013-07-01,8400,5250,0.63
+Accessories,Bottles and Cages,low cost,low price,2013-07-01,5680,3408,0.60
+Clothing,Caps,low cost,low price,2013-07-01,5319,1182,0.22
+Accessories,Cleaners,low cost,medium price,2013-07-01,1856,1160,0.63
+Clothing,Socks,low cost,low price,2013-07-01,1296,864,0.67
+Bikes,Mountain Bikes,high cost,medium price,2013-10-01,1889955,858771,0.45
+Bikes,Touring Bikes,high cost,high price,2013-10-01,1025120,387860,0.38
+Bikes,Road Bikes,high cost,medium price,2013-10-01,1005893,365488,0.36
+Bikes,Road Bikes,high cost,high price,2013-10-01,337134,122544,0.36
+Bikes,Road Bikes,medium cost,low price,2013-10-01,252720,91728,0.36
+Bikes,Mountain Bikes,medium cost,low price,2013-10-01,235226,106790,0.45
+Bikes,Touring Bikes,high cost,medium price,2013-10-01,147015,55660,0.38
+Bikes,Touring Bikes,medium cost,low price,2013-10-01,137270,51985,0.38
+Accessories,Helmets,low cost,high price,2013-10-01,67200,42240,0.63
+Accessories,Tires and Tubes,low cost,medium price,2013-10-01,41630,26278,0.63
+Clothing,Jerseys,medium cost,high price,2013-10-01,25434,5652,0.22
+Clothing,Jerseys,medium cost,medium price,2013-10-01,25050,6012,0.24
+Clothing,Shorts,low cost,high price,2013-10-01,19880,12496,0.63
+Accessories,Tires and Tubes,low cost,high price,2013-10-01,14210,8932,0.63
+Accessories,Fenders,low cost,medium price,2013-10-01,13420,8540,0.64
+Accessories,Bike Racks,medium cost,high price,2013-10-01,11640,7275,0.63
+Accessories,Hydration Packs,low cost,high price,2013-10-01,11220,6936,0.62
+Clothing,Vests,low cost,high price,2013-10-01,10944,6840,0.63
+Accessories,Tires and Tubes,low cost,low price,2013-10-01,10587,6560,0.62
+Accessories,Bottles and Cages,low cost,medium price,2013-10-01,10558,6654,0.63
+Accessories,Bike Stands,medium cost,high price,2013-10-01,10494,6600,0.63
+Clothing,Gloves,low cost,medium price,2013-10-01,10416,6510,0.63
+Accessories,Bottles and Cages,low cost,low price,2013-10-01,6035,3621,0.60
+Clothing,Caps,low cost,low price,2013-10-01,5643,1254,0.22
+Accessories,Cleaners,low cost,medium price,2013-10-01,2024,1265,0.63
+Clothing,Socks,low cost,low price,2013-10-01,1359,906,0.67
+Accessories,Tires and Tubes,low cost,medium price,2014-01-01,8691,5489,0.63
+Accessories,Helmets,low cost,high price,2014-01-01,8400,5280,0.63
+Clothing,Jerseys,medium cost,medium price,2014-01-01,4100,984,0.24
+Clothing,Shorts,low cost,high price,2014-01-01,3920,2464,0.63
+Clothing,Jerseys,medium cost,high price,2014-01-01,2862,636,0.22
+Accessories,Bike Racks,medium cost,high price,2014-01-01,2400,1500,0.63
+Accessories,Tires and Tubes,low cost,low price,2014-01-01,2151,1346,0.63
+Accessories,Fenders,low cost,medium price,2014-01-01,2068,1316,0.64
+Clothing,Vests,low cost,high price,2014-01-01,1920,1200,0.63
+Accessories,Tires and Tubes,low cost,high price,2014-01-01,1785,1122,0.63
+Accessories,Bike Stands,medium cost,high price,2014-01-01,1749,1100,0.63
+Clothing,Gloves,low cost,medium price,2014-01-01,1536,960,0.63
+Accessories,Hydration Packs,low cost,high price,2014-01-01,1265,782,0.62
+Accessories,Bottles and Cages,low cost,medium price,2014-01-01,781,474,0.61
+Clothing,Caps,low cost,low price,2014-01-01,747,166,0.22
+Accessories,Bottles and Cages,low cost,low price,2014-01-01,730,438,0.60
+Accessories,Cleaners,low cost,medium price,2014-01-01,312,195,0.63
+Clothing,Socks,low cost,low price,2014-01-01,225,150,0.67
